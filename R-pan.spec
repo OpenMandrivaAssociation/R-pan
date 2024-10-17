@@ -7,7 +7,7 @@ Release:          1
 Summary:          Multiple imputation for multivariate panel or clustered data
 Group:            Sciences/Mathematics
 License:          MIT + file LICENSE
-URL:              http://cran.r-project.org/web/packages/%{packname}/index.html
+URL:              https://cran.r-project.org/web/packages/%{packname}/index.html
 Source0:          http://cran.r-project.org/src/contrib/%{packname}_%{version}.tar.gz
 
 
